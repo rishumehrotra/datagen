@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/csv
+END
+headless_csv.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/csv/headless_csv.ben.xml
+END
+headless-in.csv
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/csv/headless-in.csv
+END

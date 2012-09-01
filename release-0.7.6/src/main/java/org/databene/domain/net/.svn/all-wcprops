@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net
+END
+RandomDomainGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net/RandomDomainGenerator.java
+END
+WebmailDomainGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net/WebmailDomainGenerator.java
+END
+CompanyDomainGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net/CompanyDomainGenerator.java
+END
+TopLevelDomainGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net/TopLevelDomainGenerator.java
+END
+DomainGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/net/DomainGenerator.java
+END

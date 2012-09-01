@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution
+END
+IndividualWeightTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/IndividualWeightTest.java
+END
+IndexBasedSampleGeneratorProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/IndexBasedSampleGeneratorProxyTest.java
+END
+InverseProbabilityIntegralTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/InverseProbabilityIntegralTest.java
+END
+CustomWeightFunctionIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/CustomWeightFunctionIntegrationTest.java
+END
+StandardWeightingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/StandardWeightingFunction.java
+END
+DistributingGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/distribution/DistributingGeneratorTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime
+END
+CurrentMilliTimeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/CurrentMilliTimeGenerator.java
+END
+DateTimeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/DateTimeGenerator.java
+END
+CurrentNanoTimeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/CurrentNanoTimeGenerator.java
+END
+DateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/DateGenerator.java
+END
+DayGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/DayGenerator.java
+END
+DayOfWeekValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/DayOfWeekValidator.java
+END
+CurrentDateTimeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/CurrentDateTimeGenerator.java
+END
+CurrentDateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/CurrentDateGenerator.java
+END
+CurrentTimeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/CurrentTimeGenerator.java
+END
+DayOfWeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/datetime/DayOfWeek.java
+END

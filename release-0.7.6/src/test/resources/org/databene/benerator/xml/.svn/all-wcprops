@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/xml
+END
+bean_test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/xml/bean_test.xsd
+END
+variable_test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/xml/variable_test.xsd
+END
+alice.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/xml/alice.csv
+END

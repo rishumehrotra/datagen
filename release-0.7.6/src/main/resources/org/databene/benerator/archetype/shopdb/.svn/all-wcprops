@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb
+END
+benerator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/benerator.xml
+END
+products.ent.csv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/products.ent.csv
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/readme.txt
+END
+benerator.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/benerator.properties
+END
+shop.dbunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/shop.dbunit.xml
+END

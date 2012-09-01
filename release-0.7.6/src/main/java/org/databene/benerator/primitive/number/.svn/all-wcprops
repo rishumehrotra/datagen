@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number
+END
+FloatingPointQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/FloatingPointQuantizer.java
+END
+DecimalQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/DecimalQuantizer.java
+END
+NoiseInducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/NoiseInducer.java
+END
+IntegralQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/IntegralQuantizer.java
+END
+AbstractNonNullNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/AbstractNonNullNumberGenerator.java
+END
+AbstractBigIntegerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/AbstractBigIntegerGenerator.java
+END
+AbstractBigDecimalGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/AbstractBigDecimalGenerator.java
+END
+NumberQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/NumberQuantizer.java
+END
+RecurrenceRelationNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/RecurrenceRelationNumberGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/number/package.html
+END

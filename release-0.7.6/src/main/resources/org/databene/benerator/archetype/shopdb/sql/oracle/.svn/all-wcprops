@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/oracle
+END
+create_tables.oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/oracle/create_tables.oracle.sql
+END
+drop_tables.oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/oracle/drop_tables.oracle.sql
+END

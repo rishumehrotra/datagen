@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample
+END
+SequenceGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/SequenceGeneratorTest.java
+END
+ConstantGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/ConstantGeneratorTest.java
+END
+SequencedCSVSampleGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/SequencedCSVSampleGeneratorTest.java
+END
+StateTransitionGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/StateTransitionGeneratorTest.java
+END
+WeightedCSVSampleGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/WeightedCSVSampleGeneratorTest.java
+END
+SeedGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/SeedGeneratorTest.java
+END
+StateGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/StateGeneratorTest.java
+END
+SampleGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/SampleGeneratorTest.java
+END
+IndividualWeightSampleGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/IndividualWeightSampleGeneratorTest.java
+END
+AttachedWeightSampleGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/sample/AttachedWeightSampleGeneratorTest.java
+END

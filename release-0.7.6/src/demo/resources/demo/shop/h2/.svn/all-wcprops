@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/h2
+END
+create_tables.h2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/h2/create_tables.h2.sql
+END
+drop_tables.h2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/h2/drop_tables.h2.sql
+END
+shop.h2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/h2/shop.h2.properties
+END

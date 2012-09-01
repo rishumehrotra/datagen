@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv
+END
+CSVGeneratorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv/CSVGeneratorUtil.java
+END
+SequencedDatasetCSVGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv/SequencedDatasetCSVGenerator.java
+END
+WeightedDatasetCSVGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv/WeightedDatasetCSVGenerator.java
+END
+LocalCSVGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv/LocalCSVGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/csv/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br
+END
+CPFGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CPFGenerator.java
+END
+CNPJValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CNPJValidator.java
+END
+CNPJGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CNPJGenerator.java
+END
+CPF.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CPF.java
+END
+CNPJ.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CNPJ.java
+END
+CPFValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/br/CPFValidator.java
+END

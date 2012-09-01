@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/db
+END
+user.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/db/user.ben.xml
+END
+hsql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/db/hsql.properties
+END
+hsql.script
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/db/hsql.script
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address
+END
+CityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/CityManagerTest.java
+END
+CountryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/CountryTest.java
+END
+PostalCodeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/PostalCodeValidatorTest.java
+END
+CountryCode2ValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/CountryCode2ValidatorTest.java
+END
+CityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/CityTest.java
+END
+AddressGeneratorPerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/AddressGeneratorPerfTest.java
+END
+CountryGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/CountryGeneratorTest.java
+END
+AddressGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/AddressGeneratorTest.java
+END
+StreetNameGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/domain/address/StreetNameGeneratorTest.java
+END

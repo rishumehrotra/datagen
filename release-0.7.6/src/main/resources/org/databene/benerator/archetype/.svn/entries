@@ -1,0 +1,101 @@
+10
+
+dir
+6757
+https://benerator.svn.sourceforge.net/svnroot/benerator/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype
+https://benerator.svn.sourceforge.net/svnroot/benerator
+
+
+
+2011-09-14T08:26:19.328130Z
+6358
+vbergmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37d91da1-6759-5a44-b2bd-541c34f01409
+
+fixedwidth
+dir
+
+shopdb
+dir
+
+xml
+dir
+
+hello
+dir
+
+db
+dir
+
+snapshotdb
+dir
+
+archetypes.txt
+file
+
+
+
+
+2012-08-30T08:46:04.000000Z
+8e00ae333c18993b32a2f4c7a61c5cc6
+2011-09-13T12:49:01.260997Z
+6355
+vbergmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79
+
+flat
+dir
+
+xls
+dir
+
+extend
+dir
+
+simple
+dir
+
+annoxsd
+dir
+
+csv
+dir
+
+reprodb
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/storage
+END
+StorageSystemConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/storage/StorageSystemConsumer.java
+END
+StorageSystemInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/storage/StorageSystemInserter.java
+END
+AbstractStorageSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/storage/AbstractStorageSystem.java
+END
+StorageSystemUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/storage/StorageSystemUpdater.java
+END

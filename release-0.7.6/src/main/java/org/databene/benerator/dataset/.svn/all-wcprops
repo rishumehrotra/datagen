@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset
+END
+CompositeDatasetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/CompositeDatasetGenerator.java
+END
+AbstractDatasetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/AbstractDatasetGenerator.java
+END
+DatasetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/DatasetUtil.java
+END
+Dataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/Dataset.java
+END
+AtomicDatasetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/AtomicDatasetGenerator.java
+END
+DatasetBasedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/DatasetBasedGenerator.java
+END
+WeightedDatasetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/dataset/WeightedDatasetGenerator.java
+END

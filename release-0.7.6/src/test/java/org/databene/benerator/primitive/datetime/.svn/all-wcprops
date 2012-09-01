@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime
+END
+CurrentMilliTimeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/CurrentMilliTimeGeneratorTest.java
+END
+DateTimeIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/DateTimeIntegrationTest.java
+END
+DateTimeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/DateTimeGeneratorTest.java
+END
+CurrentNanoTimeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/CurrentNanoTimeGeneratorTest.java
+END
+DayGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/DayGeneratorTest.java
+END
+DayOfWeekValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/DayOfWeekValidatorTest.java
+END
+CurrentDateTimeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/CurrentDateTimeGeneratorTest.java
+END
+CurrentDateGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/CurrentDateGeneratorTest.java
+END
+DateTimeGeneratorIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/DateTimeGeneratorIntegrationTest.java
+END
+CurrentTimeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/datetime/CurrentTimeGeneratorTest.java
+END

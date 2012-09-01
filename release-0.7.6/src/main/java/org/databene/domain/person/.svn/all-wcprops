@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person
+END
+AcademicTitleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/AcademicTitleGenerator.java
+END
+TINValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/TINValidator.java
+END
+TINGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/TINGenerator.java
+END
+NobilityTitleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/NobilityTitleGenerator.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/Gender.java
+END
+EMailAddressGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/EMailAddressGenerator.java
+END
+EMailAddressBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/EMailAddressBuilder.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/Person.java
+END
+GenderGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/GenderGenerator.java
+END
+PersonGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/PersonGenerator.java
+END
+BirthDateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/BirthDateGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/package.html
+END
+GivenNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/GivenNameGenerator.java
+END
+FemaleFamilyNameConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/FemaleFamilyNameConverter.java
+END
+FamilyNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/FamilyNameGenerator.java
+END
+TIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/TIN.java
+END
+PersonFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/PersonFormatter.java
+END
+GenderConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/GenderConverter.java
+END
+SalutationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/person/SalutationProvider.java
+END

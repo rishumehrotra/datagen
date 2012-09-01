@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization
+END
+LegalFormGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization/LegalFormGenerator.java
+END
+SectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization/SectorGenerator.java
+END
+CompanyName.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization/CompanyName.java
+END
+DepartmentNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization/DepartmentNameGenerator.java
+END
+CompanyNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/organization/CompanyNameGenerator.java
+END

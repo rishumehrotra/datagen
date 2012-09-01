@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my
+END
+NumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/NumberGenerator.java
+END
+NumberConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/NumberConverter.java
+END
+PersonSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/PersonSource.java
+END
+CreditCardValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/CreditCardValidator.java
+END
+ReciprocalWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/ReciprocalWeight.java
+END
+ConsoleConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/extend/src/main/java/com/my/ConsoleConsumer.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/org/databene/benerator
+END
+xmlFooter.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/org/databene/benerator/xmlFooter.ftl
+END
+xmlPart.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/org/databene/benerator/xmlPart.ftl
+END
+products.csv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/org/databene/benerator/products.csv
+END
+xmlHeader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/org/databene/benerator/xmlHeader.ftl
+END

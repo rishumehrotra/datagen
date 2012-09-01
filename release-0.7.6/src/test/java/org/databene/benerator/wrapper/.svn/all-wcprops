@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper
+END
+UniqueCompositeArrayGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/UniqueCompositeArrayGeneratorTest.java
+END
+CompositeStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/CompositeStringGeneratorTest.java
+END
+CollectionGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/CollectionGeneratorTest.java
+END
+NShotGeneratorProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/NShotGeneratorProxyTest.java
+END
+CompositeArrayGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/CompositeArrayGeneratorTest.java
+END
+SingleSourceArrayGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/SingleSourceArrayGeneratorTest.java
+END
+ByteArrayGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/ByteArrayGeneratorTest.java
+END
+AsBigDecimalGeneratorWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/AsBigDecimalGeneratorWrapperTest.java
+END
+CyclicGeneratorProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/CyclicGeneratorProxyTest.java
+END
+SkipGeneratorProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/SkipGeneratorProxyTest.java
+END
+LastInstanceDetectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/LastInstanceDetectorTest.java
+END
+ConcatenatingGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/ConcatenatingGeneratorTest.java
+END
+ConvertingGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/ConvertingGeneratorTest.java
+END
+AlternativeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/AlternativeGeneratorTest.java
+END
+GeneratorWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/GeneratorWrapperTest.java
+END
+GeneratorChainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/GeneratorChainTest.java
+END
+RepeatGeneratorProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/RepeatGeneratorProxyTest.java
+END
+MessageGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/MessageGeneratorTest.java
+END
+OffsetBasedGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/OffsetBasedGeneratorTest.java
+END
+IteratingGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/wrapper/IteratingGeneratorTest.java
+END

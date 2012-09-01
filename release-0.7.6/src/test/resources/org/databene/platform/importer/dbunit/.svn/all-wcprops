@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/platform/importer/dbunit
+END
+person+role-dbunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/platform/importer/dbunit/person+role-dbunit.xml
+END
+person+role-dbunit.flat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/platform/importer/dbunit/person+role-dbunit.flat.xml
+END

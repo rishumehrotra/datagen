@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/composite
+END
+booleans.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/composite/booleans.txt
+END
+numbers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/composite/numbers.txt
+END
+chars.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/composite/chars.txt
+END
+dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/composite/dates.txt
+END

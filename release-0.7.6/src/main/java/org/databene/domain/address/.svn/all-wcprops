@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/Country.java
+END
+CityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CityManager.java
+END
+PostalCodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/PostalCodeValidator.java
+END
+Street.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/Street.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/City.java
+END
+CountryGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CountryGenerator.java
+END
+StreetNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/StreetNameGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/package.html
+END
+CityGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CityGenerator.java
+END
+CountryCode2.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CountryCode2.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/State.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/PhoneNumber.java
+END
+CityId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CityId.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/Address.java
+END
+CountryCode2Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/CountryCode2Validator.java
+END
+MobileNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/MobileNumberGenerator.java
+END
+PhoneNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/PhoneNumberGenerator.java
+END
+PhoneNumberFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/PhoneNumberFormat.java
+END
+AddressGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/AddressGenerator.java
+END
+PostalCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/PostalCode.java
+END
+AddressFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/domain/address/AddressFormat.java
+END

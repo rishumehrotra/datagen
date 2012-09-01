@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/gui
+END
+Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/gui/Setup.java
+END
+MavenDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/gui/MavenDependency.java
+END
+CreateProjectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/gui/CreateProjectPanel.java
+END
+ProjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/gui/ProjectBuilder.java
+END

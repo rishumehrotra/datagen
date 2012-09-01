@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence
+END
+RandomWalkDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomWalkDoubleGenerator.java
+END
+BitReverseLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/BitReverseLongGenerator.java
+END
+StepLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/StepLongGenerator.java
+END
+StepSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/StepSequence.java
+END
+PredefinedSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/PredefinedSequenceGenerator.java
+END
+RandomIntegerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomIntegerGenerator.java
+END
+RepeatSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RepeatSequence.java
+END
+RandomSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomSequence.java
+END
+ValueBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ValueBucket.java
+END
+CumulatedLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/CumulatedLongGenerator.java
+END
+CumulatedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/CumulatedSequence.java
+END
+WedgeLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/WedgeLongGenerator.java
+END
+RandomDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomDoubleGenerator.java
+END
+WedgeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/WedgeSequence.java
+END
+ShuffleSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ShuffleSequence.java
+END
+RandomWalkLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomWalkLongGenerator.java
+END
+RandomBigIntegerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomBigIntegerGenerator.java
+END
+RandomWalkSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomWalkSequence.java
+END
+ExpandGeneratorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ExpandGeneratorProxy.java
+END
+RandomBigDecimalGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomBigDecimalGenerator.java
+END
+WeightedNumbers.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/WeightedNumbers.java
+END
+ShuffleDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ShuffleDoubleGenerator.java
+END
+BitReverseSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/BitReverseSequence.java
+END
+RandomLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/RandomLongGenerator.java
+END
+ExpandSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ExpandSequence.java
+END
+StepDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/StepDoubleGenerator.java
+END
+BitReverseNaturalNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/BitReverseNaturalNumberGenerator.java
+END
+ShuffleLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/ShuffleLongGenerator.java
+END
+CumulatedDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/CumulatedDoubleGenerator.java
+END
+LiteralSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/LiteralSequence.java
+END
+HeadSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/HeadSequence.java
+END
+WedgeDoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/distribution/sequence/WedgeDoubleGenerator.java
+END

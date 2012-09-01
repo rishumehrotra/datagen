@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive
+END
+TokenCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/TokenCombiner.java
+END
+EquivalenceStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/EquivalenceStringGenerator.java
+END
+HibUUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/HibUUIDGenerator.java
+END
+AddingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/AddingConsumer.java
+END
+HiLoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/HiLoGenerator.java
+END
+DynamicCountGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/DynamicCountGenerator.java
+END
+IncrementalIntsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/IncrementalIntsGenerator.java
+END
+UnluckyNumberValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UnluckyNumberValidator.java
+END
+DynamicLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/DynamicLongGenerator.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UUIDGenerator.java
+END
+UniqueScrambledStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UniqueScrambledStringGenerator.java
+END
+SeedWordGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/SeedWordGenerator.java
+END
+IncrementalIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/IncrementalIdGenerator.java
+END
+BooleanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/BooleanGenerator.java
+END
+VarLengthStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/VarLengthStringGenerator.java
+END
+IncrementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/IncrementGenerator.java
+END
+IncrementalStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/IncrementalStringGenerator.java
+END
+UnluckyNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UnluckyNumber.java
+END
+CharacterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/CharacterGenerator.java
+END
+LongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/LongGenerator.java
+END
+RegexStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/RegexStringGenerator.java
+END
+UniqueIntsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UniqueIntsGenerator.java
+END
+ScriptGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/ScriptGenerator.java
+END
+SeedSentenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/SeedSentenceGenerator.java
+END
+StringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/StringGenerator.java
+END
+LuhnGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/LuhnGenerator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/package.html
+END
+ValueMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/ValueMapper.java
+END
+UniqueFixedLengthStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/UniqueFixedLengthStringGenerator.java
+END
+RandomVarLengthStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/RandomVarLengthStringGenerator.java
+END
+LocalSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/primitive/LocalSequenceGenerator.java
+END

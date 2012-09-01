@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement
+END
+DescriptorBasedGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/DescriptorBasedGeneratorTest.java
+END
+AbstractStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/AbstractStatementTest.java
+END
+CascadeStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/CascadeStatementTest.java
+END
+BeneratorRootStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/BeneratorRootStatementTest.java
+END
+EvaluateStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/EvaluateStatementTest.java
+END
+GenerateOrIterateStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/statement/GenerateOrIterateStatementTest.java
+END

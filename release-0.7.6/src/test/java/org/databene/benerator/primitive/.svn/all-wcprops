@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive
+END
+IncrementalStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/IncrementalStringGeneratorTest.java
+END
+EquivalenceStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/EquivalenceStringGeneratorTest.java
+END
+TokenCombinerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/TokenCombinerTest.java
+END
+HibUUIDGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/HibUUIDGeneratorTest.java
+END
+HiLoGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/HiLoGeneratorTest.java
+END
+AddingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/AddingConsumerTest.java
+END
+CharacterGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/CharacterGeneratorTest.java
+END
+DynamicCountGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/DynamicCountGeneratorTest.java
+END
+UniqueStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/UniqueStringGeneratorTest.java
+END
+IncrementalIntsGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/IncrementalIntsGeneratorTest.java
+END
+UnluckyNumberValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/UnluckyNumberValidatorTest.java
+END
+DynamicLongGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/DynamicLongGeneratorTest.java
+END
+UniqueIntsGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/UniqueIntsGeneratorTest.java
+END
+SeedSentenceGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/SeedSentenceGeneratorTest.java
+END
+StringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/StringGeneratorTest.java
+END
+LuhnGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/LuhnGeneratorTest.java
+END
+UUIDGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/UUIDGeneratorTest.java
+END
+ValueMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/ValueMapperTest.java
+END
+SeedWordGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/SeedWordGeneratorTest.java
+END
+DateGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/DateGeneratorTest.java
+END
+IncrementalIdGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/IncrementalIdGeneratorTest.java
+END
+BooleanGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/BooleanGeneratorTest.java
+END
+UniqueFixedLengthStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/UniqueFixedLengthStringGeneratorTest.java
+END
+RandomVarLengthStringGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/RandomVarLengthStringGeneratorTest.java
+END
+LocalSequenceGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/LocalSequenceGeneratorTest.java
+END
+IncrementGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/IncrementGeneratorTest.java
+END

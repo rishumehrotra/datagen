@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/number
+END
+DecimalQuantizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/number/DecimalQuantizerTest.java
+END
+NoiseInducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/number/NoiseInducerTest.java
+END
+RecursiveNumberGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/primitive/number/RecursiveNumberGeneratorTest.java
+END

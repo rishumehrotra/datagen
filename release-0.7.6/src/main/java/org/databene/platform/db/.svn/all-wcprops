@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db
+END
+ResultSetEntityIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/ResultSetEntityIterator.java
+END
+ResultSet2EntityConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/ResultSet2EntityConverter.java
+END
+EntityResultSetDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/EntityResultSetDataSource.java
+END
+PlainSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/PlainSequenceGenerator.java
+END
+AbstractSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/AbstractSequenceGenerator.java
+END
+CachedSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/CachedSequenceGenerator.java
+END
+QueryGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/QueryGenerator.java
+END
+QueryIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/QueryIterable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/package.html
+END
+QueryDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/QueryDataSource.java
+END
+LazyTableComplexTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/LazyTableComplexTypeDescriptor.java
+END
+JdbcMetaTypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/JdbcMetaTypeMapper.java
+END
+DBSeqHiLoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/DBSeqHiLoGenerator.java
+END
+DBSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/DBSequenceGenerator.java
+END
+SQLEntityExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/SQLEntityExporter.java
+END
+SequenceTableGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/SequenceTableGenerator.java
+END
+QueryHiLoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/QueryHiLoGenerator.java
+END
+DBSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/DBSystem.java
+END
+QueryLongGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/platform/db/QueryLongGenerator.java
+END

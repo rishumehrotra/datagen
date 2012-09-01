@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory
+END
+EquivalenceGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/EquivalenceGeneratorFactoryTest.java
+END
+InstanceGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/InstanceGeneratorFactoryTest.java
+END
+StochasticGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/StochasticGeneratorFactoryTest.java
+END
+FactoryUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/FactoryUtilTest.java
+END
+ConsumerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ConsumerMock.java
+END
+PersonAttrArrayGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/PersonAttrArrayGenerator.java
+END
+ComplexTypeGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ComplexTypeGeneratorFactoryTest.java
+END
+RegexStringGeneratorFactory_stocasticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/RegexStringGeneratorFactory_stocasticTest.java
+END
+DescriptorUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/DescriptorUtilTest.java
+END
+ComponentBuilderFactory_IdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ComponentBuilderFactory_IdTest.java
+END
+ArrayTypeGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ArrayTypeGeneratorFactoryTest.java
+END
+ReferenceComponentBuilderFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ReferenceComponentBuilderFactoryTest.java
+END
+RegexStringGeneratorFactory_equivalenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/RegexStringGeneratorFactory_equivalenceTest.java
+END
+ComponentBuilderFactory_attributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/ComponentBuilderFactory_attributeTest.java
+END
+AbstractComponentBuilderFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/AbstractComponentBuilderFactoryTest.java
+END
+SourceFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/SourceFactoryTest.java
+END
+CoverageGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/CoverageGeneratorFactoryTest.java
+END
+SimpleTypeGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/SimpleTypeGeneratorFactoryTest.java
+END
+MyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/factory/MyGenerator.java
+END

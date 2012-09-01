@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/reprodb
+END
+benerator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/reprodb/benerator.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/reprodb/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/reprodb/readme.txt
+END

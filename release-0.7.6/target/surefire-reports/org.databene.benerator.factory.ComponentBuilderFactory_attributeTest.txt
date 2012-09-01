@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.databene.benerator.factory.ComponentBuilderFactory_attributeTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.183 sec

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml
+END
+TranscodeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/TranscodeParser.java
+END
+CascadeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/CascadeParser.java
+END
+IncludeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/IncludeParser.java
+END
+RunTaskParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/RunTaskParser.java
+END
+ErrorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/ErrorParser.java
+END
+MemStoreParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/MemStoreParser.java
+END
+IfParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/IfParser.java
+END
+TranscodingTaskParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/TranscodingTaskParser.java
+END
+SetupParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/SetupParser.java
+END
+CommentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/CommentParser.java
+END
+DatabaseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/DatabaseParser.java
+END
+BeneratorParseContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/BeneratorParseContext.java
+END
+AbstractBeneratorDescriptorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/AbstractBeneratorDescriptorParser.java
+END
+WaitParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/WaitParser.java
+END
+BeanParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/BeanParser.java
+END
+EvaluateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/EvaluateParser.java
+END
+AbstractTranscodeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/AbstractTranscodeParser.java
+END
+DefaultComponentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/DefaultComponentParser.java
+END
+WhileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/WhileParser.java
+END
+GenerateOrIterateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/GenerateOrIterateParser.java
+END
+ImportParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/ImportParser.java
+END
+BeepParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/BeepParser.java
+END
+DescriptorParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/DescriptorParserUtil.java
+END
+SettingParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/SettingParser.java
+END
+EchoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/benerator/engine/parser/xml/EchoParser.java
+END

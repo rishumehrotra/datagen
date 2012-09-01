@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/primitive
+END
+AddingConsumerTest.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/primitive/AddingConsumerTest.ben.xml
+END
+TokenCombinerTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/primitive/TokenCombinerTest.csv
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task
+END
+ParallelizableCounterTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task/ParallelizableCounterTask.java
+END
+CountTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task/CountTask.java
+END
+PageListenerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task/PageListenerMock.java
+END
+TaskMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task/TaskMock.java
+END
+PagedTaskRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/task/PagedTaskRunnerTest.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode
+END
+Transcoding-identity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/Transcoding-identity.xml
+END
+transcode_to_target_with_countries.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/transcode_to_target_with_countries.ben.xml
+END
+transcode_partially_with_cascade.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/transcode_partially_with_cascade.ben.xml
+END
+transcode_partially.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/transcode_partially.ben.xml
+END
+transcode_partially_to_non_empty_target.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/transcode_partially_to_non_empty_target.ben.xml
+END
+transcode_to_empty_target.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/transcode_to_empty_target.ben.xml
+END
+createTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/resources/org/databene/benerator/engine/transcode/createTables.sql
+END

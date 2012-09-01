@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task
+END
+TaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TaskUtil.java
+END
+TaskResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TaskResult.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/Task.java
+END
+SynchronizedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/SynchronizedTask.java
+END
+TaskProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TaskProxy.java
+END
+RunnableMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/RunnableMain.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/package.html
+END
+TaskException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TaskException.java
+END
+PageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/PageListener.java
+END
+TimedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TimedTask.java
+END
+TaskUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/TaskUnavailableException.java
+END
+CompositeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/CompositeTask.java
+END
+AbstractTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/AbstractTask.java
+END
+StateTrackingTaskProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/StateTrackingTaskProxy.java
+END
+LoggingPageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/LoggingPageListener.java
+END
+RunnableTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/RunnableTask.java
+END
+SequentialTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/task/SequentialTask.java
+END

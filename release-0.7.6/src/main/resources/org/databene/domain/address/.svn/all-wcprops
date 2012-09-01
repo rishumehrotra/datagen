@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address
+END
+state_US.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/state_US.csv
+END
+street_CH_de.csv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_CH_de.csv
+END
+state_DE.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/state_DE.csv
+END
+street_BR.csv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_BR.csv
+END
+state_CH.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/state_CH.csv
+END
+city_BR.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/city_BR.csv
+END
+street_FR.csv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_FR.csv
+END
+addressFormat.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/addressFormat.properties
+END
+state_BR.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/state_BR.csv
+END
+country.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/country.csv
+END
+street_CH_fr.csv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_CH_fr.csv
+END
+postalCodeFormat.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/postalCodeFormat.properties
+END
+street_CH_it.csv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_CH_it.csv
+END
+street_US.csv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_US.csv
+END
+street_DE.csv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/street_DE.csv
+END
+city_US.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/city_US.csv
+END
+city_DE.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/city_DE.csv
+END
+city_CH.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/domain/address/city_CH.csv
+END

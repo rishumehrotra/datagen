@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/derby
+END
+create_tables.derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/derby/create_tables.derby.sql
+END
+drop_tables.derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/derby/drop_tables.derby.sql
+END

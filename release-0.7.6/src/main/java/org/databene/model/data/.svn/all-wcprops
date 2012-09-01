@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data
+END
+Uniqueness.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/Uniqueness.java
+END
+ComponentDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ComponentDescriptor.java
+END
+PartDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/PartDescriptor.java
+END
+ComplexTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ComplexTypeDescriptor.java
+END
+ComponentNameMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ComponentNameMapper.java
+END
+EntityGraphMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/EntityGraphMutator.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/Entity.java
+END
+FeatureDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/FeatureDetail.java
+END
+AbstractEntitySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/AbstractEntitySource.java
+END
+PrimitiveDescriptorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/PrimitiveDescriptorProvider.java
+END
+VariableHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/VariableHolder.java
+END
+VariableDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/VariableDescriptor.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/Mode.java
+END
+ComponentAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ComponentAccessor.java
+END
+UnresolvedTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/UnresolvedTypeDescriptor.java
+END
+ArrayElementDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ArrayElementDescriptor.java
+END
+DescriptorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/DescriptorProvider.java
+END
+SimpleTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/SimpleTypeDescriptor.java
+END
+DataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/DataModel.java
+END
+UnionSimpleTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/UnionSimpleTypeDescriptor.java
+END
+InstanceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/InstanceDescriptor.java
+END
+ArrayTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ArrayTypeDescriptor.java
+END
+TypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/TypeDescriptor.java
+END
+TypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/TypeMapper.java
+END
+SequentialGroupDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/SequentialGroupDescriptor.java
+END
+AlternativeGroupDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/AlternativeGroupDescriptor.java
+END
+FeatureDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/FeatureDescriptor.java
+END
+IdDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/IdDescriptor.java
+END
+FileBasedEntitySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/FileBasedEntitySource.java
+END
+ReferenceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/ReferenceDescriptor.java
+END
+EntitySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/EntitySource.java
+END
+Iteration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/Iteration.java
+END
+DefaultDescriptorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/java/org/databene/model/data/DefaultDescriptorProvider.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/sql
+END
+create-tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/sql/create-tables.sql
+END
+drop-tables
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/sql/drop-tables
+END

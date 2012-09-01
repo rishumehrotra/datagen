@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/install.sh
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/.classpath
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/license.txt
+END
+architecture.benerator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/architecture.benerator.xml
+END
+deploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/deploy.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/.project
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/build.bat
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/deploy.sh
+END
+conqat.cqa
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/conqat.cqa
+END
+dist.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/dist.bat
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/pom.xml
+END
+install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/install.bat
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/.checkstyle
+END
+dist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/dist.sh
+END

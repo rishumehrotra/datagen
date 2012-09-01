@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml
+END
+ImportParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/ImportParserAndStatementTest.java
+END
+GeneratorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/GeneratorMock.java
+END
+SettingParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/SettingParserAndStatementTest.java
+END
+IncludeParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/IncludeParserAndStatementTest.java
+END
+RunTaskParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/RunTaskParserAndStatementTest.java
+END
+ErrorParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/ErrorParserAndStatementTest.java
+END
+BeanMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/BeanMock.java
+END
+IfParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/IfParserAndStatementTest.java
+END
+ExecuteParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/ExecuteParserAndStatementTest.java
+END
+CommentParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/CommentParserAndStatementTest.java
+END
+WaitParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/WaitParserAndStatementTest.java
+END
+DescriptorParserUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/DescriptorParserUtilTest.java
+END
+BeanParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/BeanParserAndStatementTest.java
+END
+EchoParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/EchoParserTest.java
+END
+WhileParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/WhileParserAndStatementTest.java
+END
+InitialContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/InitialContextTest.java
+END
+GenerateOrIterateParserAndStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/test/java/org/databene/benerator/engine/parser/xml/GenerateOrIterateParserAndStatementTest.java
+END

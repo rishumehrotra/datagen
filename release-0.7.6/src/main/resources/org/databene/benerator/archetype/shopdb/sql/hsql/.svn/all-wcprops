@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/hsql
+END
+create_tables.hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/hsql/create_tables.hsql.sql
+END
+drop_tables.hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/hsql/drop_tables.hsql.sql
+END

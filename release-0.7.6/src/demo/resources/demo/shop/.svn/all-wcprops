@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop
+END
+categories.csv
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/categories.csv
+END
+shop.test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.test.properties
+END
+shop.development.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.development.properties
+END
+product-annotated.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/product-annotated.xsd
+END
+products.import.fcw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/products.import.fcw
+END
+shop.dbunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.dbunit.xml
+END
+shopxml.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shopxml.ben.xml
+END
+extract_files.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/extract_files.ben.xml
+END
+shop.perftest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.perftest.properties
+END
+default_order.dbunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/default_order.dbunit.xml
+END
+product-simple.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/product-simple.xsd
+END
+shop.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.xsd
+END
+products.import.csv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/products.import.csv
+END
+shop-plain.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop-plain.xsd
+END
+shop.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/shop/shop.ben.xml
+END

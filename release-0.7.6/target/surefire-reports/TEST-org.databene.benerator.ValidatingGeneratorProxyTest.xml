@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.002" errors="0" skipped="0" tests="2" name="org.databene.benerator.ValidatingGeneratorProxyTest">
+  <properties>
+    <property name="java.vendor" value="Apple Inc."/>
+    <property name="localRepository" value="/Users/rishu.mehrotra/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="cell.separator" value=","/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.boot.class.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.runtime.version" value="1.6.0_33-b03-424-11M3720"/>
+    <property name="user.name" value="rishu.mehrotra"/>
+    <property name="awt.nativeDoubleBuffering" value="true"/>
+    <property name="format" value="xls"/>
+    <property name="user.language" value="en"/>
+    <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
+    <property name="java.version" value="1.6.0_33"/>
+    <property name="user.timezone" value="GMT+05:30"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="MacRoman"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
+    <property name="dbDriver" value="org.hsqldb.jdbcDriver"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.8"/>
+    <property name="surefire.real.class.path" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/surefire/surefirebooter567500039399751238.jar"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="20.8-b03-424"/>
+    <property name="java.awt.printerjob" value="apple.awt.CPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="apple.awt.CToolkit"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/rishu.mehrotra"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="java.vendor.url" value="http://www.apple.com/"/>
+    <property name="java.vm.vendor" value="Apple Inc."/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.java.command" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/surefire/surefirebooter567500039399751238.jar /Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/surefire/surefire1860867658504901225tmp /Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/surefire/surefire7101069405831422941tmp"/>
+    <property name="java.class.path" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/test-classes:/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/classes:/Users/rishu.mehrotra/.m2/repository/org/databene/jdbacl/0.8.1/jdbacl-0.8.1.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-script/0.7.6/databene-script-0.7.6.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-webdecs/0.6.7/databene-webdecs-0.6.7.jar:/Users/rishu.mehrotra/.m2/repository/org/apache/poi/poi/3.7/poi-3.7.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-commons/0.5.15/databene-commons-0.5.15.jar:/Users/rishu.mehrotra/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/rishu.mehrotra/.m2/repository/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar:/Users/rishu.mehrotra/.m2/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/Users/rishu.mehrotra/.m2/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/contiperf/2.1.0/contiperf-2.1.0.jar:/Users/rishu.mehrotra/.m2/repository/junit/junit/4.9/junit-4.9.jar:/Users/rishu.mehrotra/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/rishu.mehrotra/.m2/repository/net/sourceforge/jtds/jtds/1.2/jtds-1.2.jar:/Users/rishu.mehrotra/.m2/repository/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar:/Users/rishu.mehrotra/.m2/repository/hsqldb/hsqldb/1.8.0.7/hsqldb-1.8.0.7.jar:/Users/rishu.mehrotra/.m2/repository/com/h2database/h2/1.2.136/h2-1.2.136.jar:/Users/rishu.mehrotra/.m2/repository/org/apache/derby/derbyclient/10.6.1.0/derbyclient-10.6.1.0.jar:/Users/rishu.mehrotra/.m2/repository/postgresql/postgresql/8.4-701.jdbc4/postgresql-8.4-701.jdbc4.jar:/Users/rishu.mehrotra/.m2/repository/net/sf/squirrel-sql/thirdparty-non-maven/jaybird/2.1.6/jaybird-2.1.6.jar:/Users/rishu.mehrotra/.m2/repository/javax/resource/connector-api/1.5/connector-api-1.5.jar:/Users/rishu.mehrotra/.m2/repository/org/antlr/antlr-runtime/3.3/antlr-runtime-3.3.jar:/Users/rishu.mehrotra/.m2/repository/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar:/Users/rishu.mehrotra/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/rishu.mehrotra/.m2/repository/org/freemarker/freemarker/2.3.9/freemarker-2.3.9.jar:/Users/rishu.mehrotra/.m2/repository/org/slf4j/slf4j-log4j12/1.5.8/slf4j-log4j12-1.5.8.jar:/Users/rishu.mehrotra/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar:"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="benerator.cacheSize" value=""/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="surefire.test.class.path" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/test-classes:/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6/target/classes:/Users/rishu.mehrotra/.m2/repository/org/databene/jdbacl/0.8.1/jdbacl-0.8.1.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-script/0.7.6/databene-script-0.7.6.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-webdecs/0.6.7/databene-webdecs-0.6.7.jar:/Users/rishu.mehrotra/.m2/repository/org/apache/poi/poi/3.7/poi-3.7.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/databene-commons/0.5.15/databene-commons-0.5.15.jar:/Users/rishu.mehrotra/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/rishu.mehrotra/.m2/repository/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar:/Users/rishu.mehrotra/.m2/repository/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.jar:/Users/rishu.mehrotra/.m2/repository/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar:/Users/rishu.mehrotra/.m2/repository/org/databene/contiperf/2.1.0/contiperf-2.1.0.jar:/Users/rishu.mehrotra/.m2/repository/junit/junit/4.9/junit-4.9.jar:/Users/rishu.mehrotra/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/rishu.mehrotra/.m2/repository/net/sourceforge/jtds/jtds/1.2/jtds-1.2.jar:/Users/rishu.mehrotra/.m2/repository/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar:/Users/rishu.mehrotra/.m2/repository/hsqldb/hsqldb/1.8.0.7/hsqldb-1.8.0.7.jar:/Users/rishu.mehrotra/.m2/repository/com/h2database/h2/1.2.136/h2-1.2.136.jar:/Users/rishu.mehrotra/.m2/repository/org/apache/derby/derbyclient/10.6.1.0/derbyclient-10.6.1.0.jar:/Users/rishu.mehrotra/.m2/repository/postgresql/postgresql/8.4-701.jdbc4/postgresql-8.4-701.jdbc4.jar:/Users/rishu.mehrotra/.m2/repository/net/sf/squirrel-sql/thirdparty-non-maven/jaybird/2.1.6/jaybird-2.1.6.jar:/Users/rishu.mehrotra/.m2/repository/javax/resource/connector-api/1.5/connector-api-1.5.jar:/Users/rishu.mehrotra/.m2/repository/org/antlr/antlr-runtime/3.3/antlr-runtime-3.3.jar:/Users/rishu.mehrotra/.m2/repository/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar:/Users/rishu.mehrotra/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/rishu.mehrotra/.m2/repository/org/freemarker/freemarker/2.3.9/freemarker-2.3.9.jar:/Users/rishu.mehrotra/.m2/repository/org/slf4j/slf4j-log4j12/1.5.8/slf4j-log4j12-1.5.8.jar:/Users/rishu.mehrotra/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar:"/>
+    <property name="java.io.tmpdir" value="/var/folders/p0/p1249x995533tnr1_y32j0p8r2r48j/T/"/>
+    <property name="dbUser" value="sa"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.apple.com/"/>
+    <property name="dbPassword" value=""/>
+    <property name="jndi.properties" value=""/>
+    <property name="mrj.build" value="11M3720"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment"/>
+    <property name="java.ext.dirs" value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext"/>
+    <property name="mrj.version" value="1070.1.6.0_33-424"/>
+    <property name="user.dir" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6"/>
+    <property name="benerator.validate" value="false"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="dbSchema" value="PUBLIC"/>
+    <property name="basedir" value="/Users/rishu.mehrotra/Desktop/Benerator/release-0.7.6"/>
+    <property name="file.encoding" value="iso-8859-15"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="dbUrl" value="jdbc:hsqldb:mem:DBSnaphotToolTest"/>
+  </properties>
+  <testcase time="0" classname="org.databene.benerator.ValidatingGeneratorProxyTest" name="testInvalid"/>
+  <testcase time="0" classname="org.databene.benerator.ValidatingGeneratorProxyTest" name="testValid"/>
+</testsuite>

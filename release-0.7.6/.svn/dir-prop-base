@@ -1,0 +1,26 @@
+K 14
+subclipse:tags
+V 259
+159,benerator-0.3.04,/trunk,tag
+361,benerator-0.4.0,/trunk,tag
+364,benerator-0.4.1,/trunk,tag
+720,benerator-0.5.1,/benerator/trunk,tag
+890,benerator-0.5.2,/benerator/trunk,tag
+1168,benerator-0.5.4,/benerator/trunk,tag
+1324,benerator-0.5.5,/benerator/trunk,tag
+K 10
+svn:ignore
+V 124
+target
+private
+agitar
+Dom
+news
+QA
+setup.ser
+LocalSequenceGenerator.properties
+BeneratorGUI.txt
+globe
+buildNumber.properties
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/postgres
+END
+create_tables.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/postgres/create_tables.postgres.sql
+END
+drop_tables.postgres.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/org/databene/benerator/archetype/shopdb/sql/postgres/drop_tables.postgres.sql
+END

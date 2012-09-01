@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources
+END
+dataset.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/dataset.dtd
+END
+datatypes.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/datatypes.dtd
+END
+XMLSchema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/XMLSchema.dtd
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/main/resources/log4j.xml
+END

@@ -1,0 +1,86 @@
+10
+
+dir
+6757
+https://benerator.svn.sourceforge.net/svnroot/benerator/benerator/tags/release-0.7.6/src/test/java/org/databene
+https://benerator.svn.sourceforge.net/svnroot/benerator
+
+
+
+2012-04-04T14:46:00.267538Z
+6680
+vbergmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37d91da1-6759-5a44-b2bd-541c34f01409
+
+test
+dir
+
+PerfTrackingConsumerIntegrationTest.java
+file
+
+
+
+
+2012-08-30T08:45:45.000000Z
+a26c13f70314c334dac6c90522ae1aa2
+2012-03-16T08:02:32.355701Z
+6667
+vbergmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3848
+
+model
+dir
+
+profile
+dir
+
+benerator
+dir
+
+task
+dir
+
+region
+dir
+
+platform
+dir
+
+domain
+dir
+

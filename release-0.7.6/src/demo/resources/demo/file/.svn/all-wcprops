@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file
+END
+transaction_xml_part.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/transaction_xml_part.ftl
+END
+create_csv.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_csv.ben.xml
+END
+products.ent.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/products.ent.csv
+END
+create_fixed_width.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_fixed_width.ben.xml
+END
+csv_io.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/csv_io.ben.xml
+END
+create_xml.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_xml.ben.xml
+END
+create_dates.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_dates.ben.xml
+END
+products.pipe.csv
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/products.pipe.csv
+END
+products.import.fcw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/products.import.fcw
+END
+import_fixed_width.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/import_fixed_width.ben.xml
+END
+xls-demo.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/xls-demo.ben.xml
+END
+create_xls.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_xls.ben.xml
+END
+postprocess-import.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/postprocess-import.ben.xml
+END
+transaction_xml_header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/transaction_xml_header.ftl
+END
+create_xml_by_script.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/create_xml_by_script.ben.xml
+END
+greetings_csv.ben.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/greetings_csv.ben.xml
+END
+products.import.csv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/products.import.csv
+END
+transaction_xml_footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/transaction_xml_footer.ftl
+END
+tx.ent.csv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/tx.ent.csv
+END
+transactions.xls
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/benerator/!svn/ver/6690/benerator/tags/release-0.7.6/src/demo/resources/demo/file/transactions.xls
+END
