@@ -31,7 +31,7 @@ public class User {
     protected UserHygiene userHygiene;
 
     
-    public User(String uidType, String uid, String uids, Integer age, Gender gender, String uLocation, String interests, PostalCode postalCode, Integer area, Date birthDate, Integer income, String education, String ethnicity, UserHygiene userHygiene) {
+    public User(String uidType, String uid, List<String> uids, Integer age, Gender gender, String uLocation, List<String> interests, PostalCode postalCode, Integer area, Date birthDate, Integer income, String education, String ethnicity, UserHygiene userHygiene) {
         this.uidType = uidType;
         this.uid = uid;
         this.uids = uids;
@@ -104,11 +104,11 @@ public class User {
         this.income = income;
     }
 
-    public String getInterests() {
+    public List<String> getInterests() {
         return interests;
     }
 
-    public void setInterests(String interests) {
+    public void setInterests(List<String> interests) {
         this.interests = interests;
     }
 
@@ -144,11 +144,11 @@ public class User {
         this.uidType = uidType;
     }
 
-    public String getUids() {
+    public List<String> getUids() {
         return uids;
     }
 
-    public void setUids(String uids) {
+    public void setUids(List<String> uids) {
         this.uids = uids;
     }
 

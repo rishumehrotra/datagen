@@ -8,6 +8,20 @@ package org.databene.domain.rr;
  *
  * @author rishu.mehrotra
  */
-public class Version {
+public enum Version {
+    
+    FIVE(5),SIX(6);
+    
+    int value;
+    
+    public Integer getValue()
+    {
+        return value; 
+    }
+    
+    Version(int value)
+    {
+        this.value=value;
+    }
     
 }
